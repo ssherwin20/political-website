@@ -1,19 +1,18 @@
 body { 
-	background-color: white;
-	color: black;
+	background-color: gray;
+	color: white;
 }
 p.first {
 width: 10%;
-color: black;
+color: white;
 font-family: "Comic Sans MS";
 }
 p.second {
 width: 100%;
-color: black;
+color: white;
 font-family: "Comic Sans MS";
 font-size: 22px;
-text-align: center; /*CSS Comment you could use right, left, or center in this tag*/
-}
+text-align: center; 
 img {
 	display: block;
 	margin-left: auto;
